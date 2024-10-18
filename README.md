@@ -1,8 +1,3 @@
-# React + Vite
+# Prescripto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prescripto is a responsive and dynamic web application built using React to make viewing and booking doctor appointments easier and more efficient. This platform allows patients to find and connect with healthcare providers by browsing through detailed doctor profiles, checking availability, and scheduling appointments online.
